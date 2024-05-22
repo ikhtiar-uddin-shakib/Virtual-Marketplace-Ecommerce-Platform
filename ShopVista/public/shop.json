@@ -1,0 +1,61 @@
+[
+    {
+      "id": 1,
+      "floor": "Ground floor",
+      "shops": [
+        {"name": "Shoilpik", "image": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/screenshot-2021-06-22-at-15.24.53_ver_1.png"},
+        {"name": "Bluemoon", "image": "https://pk.sapphireonline.pk/cdn/shop/files/mobile_banner_a291652b-b14c-4ece-a9ef-9a6e0e7c1d58.jpg?v=1715335596&width=1500"},
+        {"name": "Cats eye", "image": "https://media.istockphoto.com/id/1394033419/photo/luxury-fashion-store-front-in-modern-shopping-mall.jpg?s=612x612&w=0&k=20&c=RlaY4uZLg2kqvmDBBkk_dkAUfjUdJLi79umilrWcKl8="},
+        {"name": "Manhood", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkzsoSInnzRWanC8WpBHqc_GsYCUy7MHJWLA&s"},
+        {"name": "To point", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBsT3Jx_AaNIvQb0hHXjp9yS5V1iJR6UJMUUKU5ETru2BD9gn2s_rtDwaVgy0mrDdZfvc&usqp=CAU"},
+        {"name": "Kanungo Watches", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfpBX3F6Qq967BwJxC_QlljCz6mI818-qvgg&s"},
+        {"name": "Pret a porter gent collection", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc7GP_3dNdTQLBM2AsswbwR9mRwq6T04BiaQ&s"},
+        {"name": "Gentle park", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT84CnDi-mmvT6GnfwjqJWvk0y4EQgwqCPD-g&s"}
+      ]
+    },
+    {
+      "id": 2,
+      "floor": "1st",
+      "shops": [
+        {"name": "Red root", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbYjdS1zXsG1f1cNE4b11WrMR90AOwqK2eA&s"},
+        {"name": "Arabians jewellery only", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqEWHmBlScjrjddZ0RlJYcZg0Kpe26aZH3nQ&s"},
+        {"name": "Jp gallery", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Afra shop", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Brand zone", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Asong", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Maya", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Dhul jewellery only", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"}
+      ]
+    },
+    {
+      "id": 3,
+      "floor": "2nd",
+      "shops": [
+        {"name": "Ladies collection", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Baishakhi", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Amira", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "RA boutiques", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Angelica", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Missy park", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Vishal", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Super noor fashion", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Vogue by prince", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"}
+      ]
+    },
+    {
+      "id": 4,
+      "floor": "3rd",
+      "shops": [
+        {"name": "Gents collection", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Gentleman", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Rajasthan", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Sartaj", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Libaas punjbi only", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Sultan", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Westwood", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "Lubnan punjbi", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"},
+        {"name": "MarginMan", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5vGZe4muPuQVTvFMlh95N4R2ps_DDVD3jIg&s"}
+      ]
+    }
+  ]
+  

@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Explore = () => {
     return (
-        <div className="hero min-h-screen bg-pink-50 lg:my-20 my-10">
+        <div className="hero min-h-screen lg:my-5 ">
             <div className="hero-content flex-col lg:flex-row">
                 <div className='lg:w-1/2 relative'>
                     <img src="https://i.ibb.co/C6rL0dj/demo3.jpg" className="w-3/4 rounded-lg shadow-2xl" />
