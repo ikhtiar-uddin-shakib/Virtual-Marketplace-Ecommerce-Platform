@@ -1,0 +1,730 @@
+{
+    "shoppingMalls": [
+        {
+            "id" : "101",
+            "photo" : "https://i.ibb.co/6tP2nkQ/8756bdc1-75ce-4207-ae6a-0d7494550560.jpg",
+            "name": "CitySquare Mall",
+            "add" : "123 Main Street Cityville State",
+            "description" : "CitySquare Mall stands as the bustling epicenter of urban life in the heart of the city. This premier shopping destination boasts a captivating fusion of contemporary design and timeless elegance, drawing in visitors from near and far. ",
+            "floors": [
+                {
+                    "num" : "01",
+                    "shops": [ 
+                        {
+                            "shopName": "Gentleman's Wardrobe",
+                            "shopNum" : "01",
+                            "photo" : "https://i.ibb.co/9pMmQWb/cd28106f-ca8a-4c45-9da7-6c5610870f8f.jpg",
+                            "products": [
+                                {
+                                    "productName": "Traditional men's attire",
+                                    "price": 25.99,
+                                    "photo" : "https://i.ibb.co/2M6Lc8K/1c1d59cf-6e4c-4091-97cc-dbd32c437333.jpg",
+                                    "description": "Enhance your traditional look with this timeless attire."
+                                },
+                                {
+                                    "productName": "Elegant men's clothing",
+                                    "price": 29.99,
+                                    "photo" : "https://i.ibb.co/sbjqRP4/69b77a06-0855-47d0-9dae-3b5f3cfaaad1.jpg",
+                                    "description": "Make a statement with this sophisticated men's clothing."
+                                },
+                                {
+                                    "productName": "Stylish ethnic wear",
+                                    "price": 32.99,
+                                    "photo" : "https://i.ibb.co/rQkTh0K/8e93ca97-911c-4cbc-aad3-76721691da55.jpg",
+                                    "description": "Stand out in the crowd with this stylish ethnic wear."
+                                },
+                                {
+                                    "productName": "Classic men's fashion",
+                                    "price": 27.99,
+                                    "photo" : "https://i.ibb.co/DzLxjnd/e0ed029c-eee0-4a61-baac-b173599dfda2.jpg",
+                                    "description": "Achieve a classic and timeless look with this men's fashion."
+                                },
+                                {
+                                    "productName": "High-quality men's attire",
+                                    "price": 34.99,
+                                    "photo" : "https://i.ibb.co/KDPP515/fe87c8b6-6db9-4b6b-bd82-d3e286aeb865.jpg",
+                                    "description": "Experience luxury and comfort with this high-quality men's attire."
+                                },
+                                {
+                                    "productName": "Formal suits",
+                                    "price": 99.99,
+                                    "photo" : "https://i.ibb.co/g6ypmkm/4e8795bd-6112-4ecc-a648-ae3c75ecf63e.jpg",
+                                    "description": "Look sharp and sophisticated in our collection of formal suits, tailored for elegance and style."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Beauty Blaze",
+                            "shopNum" : "02",
+                            "photo" : "https://i.ibb.co/1vDvNzr/4207e877-7313-4d01-9b7a-6241b4b3064d.jpg",
+                            "products": [
+                                {
+                                    "productName": "Skincare essentials",
+                                    "price": 10.49,
+                                    "photo" : "https://i.ibb.co/ZdCqXd2/f7d55273-45e7-49e4-ae9b-6f37e111983d.jpg",
+                                    "description": "Keep your skin healthy and radiant with these essential skincare products."
+                                },
+                                {
+                                    "productName": "Haircare essentials",
+                                    "price": 12.99,
+                                    "photo" : "https://i.ibb.co/2gMFZQR/752d68a2-cc8b-4919-88f0-e19a86bfe3c0.jpg",
+                                    "description": "Nourish and strengthen your hair with these must-have haircare essentials."
+                                },
+                                {
+                                    "productName": "Makeup essentials",
+                                    "price": 8.99,
+                                    "photo" : "https://i.ibb.co/8r3hJz2/02450acf-5c62-4e6b-a8e1-4221d472d189.jpg",
+                                    "description": "Enhance your natural beauty with these essential makeup products."
+                                },
+                                {
+                                    "productName": "Fragrance collection",
+                                    "price": 14.99,
+                                    "photo" : "https://i.ibb.co/Ld3TMrB/847ee22c-ac7c-4eb8-9a17-8180ab9a97b0.jpg",
+                                    "description": "Discover your signature scent with our curated fragrance collection."
+                                },
+                                {
+                                    "productName": "Personal grooming products",
+                                    "price": 16.99,
+                                    "photo" : "https://i.ibb.co/1s4SC9L/d8f987c8-695b-440b-9238-29f1c8e57557.jpg",
+                                    "description": "Stay fresh and groomed with these essential personal grooming products."
+                                },
+                                {
+                                    "productName": "Bath and Body Set",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/ZznnYP4/f22f1650-981a-45af-9b99-b562183fa4f4.jpg",
+                                    "description": "Indulge in a luxurious bath experience with our bath and body set, featuring a selection of nourishing products for soft, smooth skin."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Baggy & Co.",
+                            "shopNum" : "03",
+                            "photo" : "https://i.ibb.co/y0d2gNy/588fd027-0628-4c86-a34b-2ffb4522fbd6.jpg",
+                            "products": [
+                                {
+                                    "productName": "Handbag",
+                                    "price": 79.99,
+                                    "photo" : "https://i.ibb.co/dbrvGcg/f4e5bea3-81de-4a65-828a-6d5568dca3e6.jpg",
+                                    "description": "Upgrade your style with this chic leather handbag. Featuring adjustable straps, spacious compartments, and elegant design, it's perfect for both casual outings and formal occasions."
+                                },
+                                {
+                                    "productName": "Backpack",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/n163JsT/24248ed8-b276-4ed3-9b7e-2950c8d992e1.jpg",
+                                    "description": "Stay organized on-the-go with this durable backpack. With multiple compartments, padded shoulder straps, and water-resistant material, it's ideal for work, travel, and outdoor adventures."
+                                },
+                                {
+                                    "productName": "Tote",
+                                    "price": 59.99,
+                                    "photo" : "https://i.ibb.co/RSRzv7q/381d990d-d700-4e16-b14c-0514992f0bb3.jpg",
+                                    "description": "Carry all your essentials in style with this spacious tote bag. Made from high-quality materials and featuring a classic design, it's the perfect accessory for everyday use and shopping trips."
+                                },
+                                {
+                                    "productName": "Clutch",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/Q9YGXDy/35fdc4a1-fe6b-402c-9c6d-71691f60a050.jpg",
+                                    "description": "Make a statement at your next evening event with this elegant clutch. Crafted from luxurious materials and adorned with subtle embellishments, it adds a touch of sophistication to any outfit."
+                                },
+                                {
+                                    "productName": "Crossbody",
+                                    "price": 69.99,
+                                    "photo" : "https://i.ibb.co/FxQZLgK/4d213426-908c-450c-a56a-2802a77cb704.jpg",
+                                    "description": "Experience hands-free convenience with this versatile crossbody bag. Designed for comfort and functionality, it's perfect for busy days on the move, offering easy access to your essentials."
+                                },
+                                {
+                                    "productName": "Satchel",
+                                    "price": 89.99,
+                                    "photo" : "https://i.ibb.co/T2NMsgW/fa6cee34-2dad-4211-8c61-d3da19dc15c3.jpg",
+                                    "description": "Add a timeless touch to your look with this classic satchel. Crafted from premium leather and featuring a sturdy handle and adjustable strap, it's perfect for work or weekend outings."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Mens Shoe Emporium",
+                            "shopNum" : "04",
+                            "photo" : "https://i.ibb.co/jG3wfkG/6d45e38d-a75b-4445-8ad5-90662754ec60.jpg",
+                            "products": [
+                                {
+                                    "productName": "Leather Oxford Shoes",
+                                    "price": 79.99,
+                                    "photo" : "https://i.ibb.co/7J42SQp/e32cab70-7c8a-4239-bd47-f4033eb88812.jpg",
+                                    "description": "Classic leather oxford shoes, perfect for formal occasions and everyday wear."
+                                },
+                                {
+                                    "productName": "Suede Loafers",
+                                    "price": 59.99,
+                                    "photo" : "https://i.ibb.co/BztP47Y/6505f985-54af-4e9f-bde1-aa84c68d307e.jpg",
+                                    "description": "Comfortable and stylish suede loafers, ideal for casual outings and weekend wear."
+                                },
+                                {
+                                    "productName": "Athletic Sneakers",
+                                    "price": 89.99,
+                                    "photo" : "https://i.ibb.co/yPHV9ZB/bc0ff438-aa8e-4947-9d77-53aa964ff62c.jpg",
+                                    "description": "Versatile athletic sneakers with cushioned soles, designed for sports activities and active lifestyles."
+                                },
+                                {
+                                    "productName": "Chelsea Boots",
+                                    "price": 99.99,
+                                    "photo" : "https://i.ibb.co/26q4MhW/57286460-138b-421b-9a86-cdea9a79197e.jpg",
+                                    "description": "Trendy and sophisticated Chelsea boots, perfect for adding a touch of style to any outfit."
+                                },
+                                {
+                                    "productName": "Dress Boots",
+                                    "price": 109.99,
+                                    "photo" : "https://i.ibb.co/m5XLCWy/fca41686-3c63-4675-a6c2-ed22911edafe.jpg",
+                                    "description": "Elegant dress boots crafted from premium leather, ideal for formal events and professional settings."
+                                },
+                                {
+                                    "productName": "Casual Slip-Ons",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/GFbTgQt/ea184521-46e9-491d-8112-022831fc0564.jpg",
+                                    "description": "Easy-to-wear casual slip-ons, great for everyday comfort and style."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num" : "02",
+                    "shops": [
+                        {
+                            "shopName": "LadyFoot Boutique",
+                            "shopNum" : "01",
+                            "photo" : "https://i.ibb.co/HGqx8pH/4fa47f79-ffd6-4b1a-b13f-55741620b69f.jpg",
+                            "products": [
+                                {
+                                    "productName": "Classic Ballet Flats",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/qYFJCWd/e3df31a5-3f7c-4fd1-9bc5-993b89669dbc.jpg",
+                                    "description": "Versatile and comfortable ballet flats, perfect for everyday wear and casual outings."
+                                },
+                                {
+                                    "productName": "Strappy High Heels",
+                                    "price": 79.99,
+                                    "photo" : "https://i.ibb.co/m8Tw7QF/5eb2a36b-1315-41b5-ac32-f6c0ac6b3320.jpg",
+                                    "description": "Elegant and stylish strappy high heels, ideal for evening events and special occasions."
+                                },
+                                {
+                                    "productName": "Sneaker Wedges",
+                                    "price": 69.99,
+                                    "photo" : "https://i.ibb.co/3rJrb4y/418b4e17-b26b-4238-836c-57cbf726dd11.jpg",
+                                    "description": "Fashion-forward sneaker wedges with a comfortable wedge heel, perfect for adding a sporty-chic touch to your look."
+                                },
+                                {
+                                    "productName": "Ankle Boots",
+                                    "price": 89.99,
+                                    "photo" : "https://i.ibb.co/Wpcympq/5bc71fe1-238c-4040-a7d3-81a5f892e903.jpg",
+                                    "description": "Trendy and versatile ankle boots, suitable for casual and semi-formal occasions."
+                                },
+                                {
+                                    "productName": "Platform Sandals",
+                                    "price": 59.99,
+                                    "photo" : "https://i.ibb.co/9r236Fn/c463c836-34e0-44d3-8d64-a0ceebe7af33.jpg",
+                                    "description": "Stylish and comfortable platform sandals, perfect for summer outings and beach days."
+                                },
+                                {
+                                    "productName": "Pointed Toe Pumps",
+                                    "price": 69.99,
+                                    "photo" : "https://i.ibb.co/kGhzF8L/31234baf-813a-4182-84ea-ea735081dcb2.jpg",
+                                    "description": "Classic pointed toe pumps with a modern twist, ideal for office wear and formal events."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "JewelAura",
+                            "shopNum" : "02",
+                            "photo" : "https://i.ibb.co/QdxSbn0/367858ba-9ba3-4b45-9e42-eefd0aa18f13.jpg",
+                            "products": [
+                                {
+                                    "productName": "Diamond Stud Earrings",
+                                    "price": 299.99,
+                                    "photo" : "https://i.ibb.co/DLdpkLY/5b25d247-c63d-4365-bc32-5a8652d459b9.jpg",
+                                    "description": "Classic and timeless diamond stud earrings, perfect for everyday elegance."
+                                },
+                                {
+                                    "productName": "Gold Pendant Necklace",
+                                    "price": 199.99,
+                                    "photo" : "https://i.ibb.co/56yWCNp/8365b8d8-a646-4936-845a-3219988bb7c7.jpg",
+                                    "description": "Elegant gold pendant necklace featuring intricate design, suitable for both casual and formal wear."
+                                },
+                                {
+                                    "productName": "Silver Bracelet",
+                                    "price": 149.99,
+                                    "photo" : "https://i.ibb.co/1vFCwhM/18668dd9-1b7f-4f8f-9119-68a7911b9013.jpg",
+                                    "description": "Chic and versatile silver bracelet, ideal for adding a touch of glamour to any outfit."
+                                },
+                                {
+                                    "productName": "Pearl Drop Earrings",
+                                    "price": 249.99,
+                                    "photo" : "https://i.ibb.co/zXnhXjN/325823ba-860a-464c-b372-44ea0a3c62bd.jpg",
+                                    "description": "Sophisticated pearl drop earrings, perfect for special occasions and evening events."
+                                },
+                                {
+                                    "productName": "Rose Gold Ring",
+                                    "price": 179.99,
+                                    "photo" : "https://i.ibb.co/gR84Vwy/2742ada3-c76d-428b-b487-fccfdcdb6d16.jpg",
+                                    "description": "Stylish rose gold ring with delicate details, a perfect gift for someone special or as a treat for yourself."
+                                },
+                                {
+                                    "productName": "Gemstone Charm Bracelet",
+                                    "price": 169.99,
+                                    "photo" : "https://i.ibb.co/jMdnfxM/dd580086-fdb3-4db0-b087-594db3bab951.jpg",
+                                    "description": "Colorful gemstone charm bracelet, designed to add a pop of color and personality to your wrist."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "CoatCrafters",
+                            "shopNum" : "03",
+                            "photo" : "https://i.ibb.co/Vx5MZpx/67fc474c-4637-49f7-a60c-75253a7c9365.jpg",
+                            "products": [
+                                {
+                                    "productName": "Classic Wool Overcoat",
+                                    "price": 199.99,
+                                    "photo" : "https://i.ibb.co/XDnCXnQ/77287429-0254-4cf0-8a82-3c52ce60cb3b.jpg",
+                                    "description": "Timeless wool overcoat, perfect for formal occasions and professional settings."
+                                },
+                                {
+                                    "productName": "Quilted Puffer Jacket",
+                                    "price": 149.99,
+                                    "photo" : "https://i.ibb.co/CvmgqNv/812dad7c-0338-4088-b875-472d6669db80.jpg",
+                                    "description": "Stylish and warm quilted puffer jacket, ideal for cold weather and outdoor activities."
+                                },
+                                {
+                                    "productName": "Leather Bomber Jacket",
+                                    "price": 249.99,
+                                    "photo" : "https://i.ibb.co/hmXPvcg/7a784123-e58b-4f3e-af9e-4a6a2ed8394a.jpg",
+                                    "description": "Iconic leather bomber jacket, featuring a rugged yet sophisticated look."
+                                },
+                                {
+                                    "productName": "Trench Coat",
+                                    "price": 179.99,
+                                    "photo" : "https://i.ibb.co/hZGvPtF/4b752854-04b0-47e1-80c1-5d7d4838a46a.jpg",
+                                    "description": "Classic trench coat, perfect for adding a polished finish to any outfit."
+                                },
+                                {
+                                    "productName": "Parka with Faux Fur Hood",
+                                    "price": 299.99,
+                                    "photo" : "https://i.ibb.co/8YtZQ3K/df635533-f6dd-4225-aa29-150018a0fb28.jpg",
+                                    "description": "Stylish parka with a cozy faux fur hood, designed to keep you warm and fashionable in cold weather."
+                                },
+                                {
+                                    "productName": "Cashmere Overcoat",
+                                    "price": 399.99,
+                                    "photo" : "https://i.ibb.co/DWHLgBZ/3ab16bc8-f54a-4aa8-8b90-a38662328fc5.jpg",
+                                    "description": "Luxurious cashmere overcoat, exuding elegance and sophistication for the discerning gentleman."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "BoyStyle Boutique",
+                            "shopNum" : "04",
+                            "photo" : "https://i.ibb.co/0j6qrdt/406a25c0-bdc7-4bcb-95bc-afa6aca3d09d.jpg",
+                            "products": [
+                                {
+                                    "productName": "Plaid Button-Up Shirt",
+                                    "price": 29.99,
+                                    "photo" : "https://i.ibb.co/MpZ90nN/5616fd7a-0ea7-4552-bc96-5026212adc0e.jpg",
+                                    "description": "Classic plaid button-up shirt, perfect for casual and semi-formal occasions."
+                                },
+                                {
+                                    "productName": "Graphic Tee",
+                                    "price": 19.99,
+                                    "photo" : "https://i.ibb.co/SwcYDY2/cd33b0fc-ae30-4a03-870c-bf7911317d8b.jpg",
+                                    "description": "Cool and comfortable graphic tee, featuring fun prints and designs for everyday wear."
+                                },
+                                {
+                                    "productName": "Polo Shirt",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/wRhmB0C/db1b4ab6-e3e2-4a30-8188-8a3cbf3c3abf.jpg",
+                                    "description": "Stylish and versatile polo shirt, ideal for a smart-casual look and sports activities."
+                                },
+                                {
+                                    "productName": "Striped Oxford Shirt",
+                                    "price": 34.99,
+                                    "photo" : "https://i.ibb.co/Px5PWTQ/bb88785b-2080-4f87-82bb-cf0cdd6da9b5.jpg",
+                                    "description": "Classic striped oxford shirt, perfect for school uniforms and formal events."
+                                },
+                                {
+                                    "productName": "Denim Button-Down Shirt",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/h8VJwRJ/cc848a5d-f963-44e3-8869-3b237cff0e99.jpg",
+                                    "description": "Trendy denim button-down shirt, perfect for a rugged and stylish look."
+                                },
+                                {
+                                    "productName": "Long Sleeve Henley",
+                                    "price": 27.99,
+                                    "photo" : "https://i.ibb.co/LRzHfxJ/4f04ac4a-0ec3-4006-af6c-456f346cd70e.jpg",
+                                    "description": "Comfortable and versatile long sleeve henley shirt, great for layering or wearing on its own."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id" : "102",
+            "photo" : "https://i.ibb.co/R43RC3f/d2673b92-c1dc-4ba3-87cb-30a4cebb6f8f.jpg",
+            "name": "ValleyView Center",
+            "add" : "456 Elm Street Metropolis State",
+            "description" : "ValleyView Center is a bustling shopping destination nestled in the heart of the picturesque ValleyView community. Boasting a diverse array of retail outlets, dining options, and entertainment venues, this vibrant mall offers something for everyone.",
+            "floors": [
+                {
+                    "num" : "01",
+                    "shops": [
+                        {
+                            "shopName": "ToyLand Emporium",
+                            "shopNum" : "01",
+                            "photo" : "https://i.ibb.co/K50J599/4fc423c8-9477-4e18-a1fc-9a72b754ba99.jpg",
+                            "products": [
+                                {
+                                    "productName": "LEGO Classic Bricks Set",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/fNcWPBD/473855ac-2aef-47f1-9e08-c791fec77cb5.jpg",
+                                    "description": "Build anything you can imagine with this versatile LEGO bricks set."
+                                },
+                                {
+                                    "productName": "Barbie Dreamhouse",
+                                    "price": 129.99,
+                                    "photo" : "https://i.ibb.co/zNh9xfD/bac1d85a-3ed2-432c-8430-34c8d54de5d8.jpg",
+                                    "description": "Explore endless possibilities with this iconic Barbie Dreamhouse playset."
+                                },
+                                {
+                                    "productName": "Hot Wheels Garage",
+                                    "price": 79.99,
+                                    "photo" : "https://i.ibb.co/bQMVY1d/26293771-a3de-4e7d-92f7-106de574a500.jpg",
+                                    "description": "Race into action with the ultimate Hot Wheels garage playset, featuring multiple levels and exciting tracks."
+                                },
+                                {
+                                    "productName": "Nerf Elite Blaster",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/nRrMKyK/7d0a36c1-b7f0-4c34-9445-d38a77222260.jpg",
+                                    "description": "Dominate the battlefield with this powerful Nerf Elite blaster, perfect for epic foam dart battles."
+                                },
+                                {
+                                    "productName": "Baby Yoda Plush Toy",
+                                    "price": 19.99,
+                                    "photo" : "https://i.ibb.co/8c15Pf5/1ede3157-6e2c-4fd9-ae24-ed9ccadd5a67.jpg",
+                                    "description": "Cuddle up with everyone's favorite Star Wars character, Baby Yoda, in plush toy form."
+                                },
+                                {
+                                    "productName": "Paw Patrol Adventure Bay Playset",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/ZXgh2Dd/8a24f330-568c-4de4-b93c-0c3d2b0fd9cf.jpg",
+                                    "description": "Join the Paw Patrol pups on exciting rescue missions with this interactive Adventure Bay playset."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "ElectroTech Hub",
+                            "shopNum" : "02",
+                            "photo" : "https://i.ibb.co/zHf4kjs/0751025e-d15f-49aa-9726-4507dfc7907c.jpg",
+                            "products": [
+                                {
+                                    "productName": "Smart TV",
+                                    "price": 599.99,
+                                    "photo" : "https://i.ibb.co/xs2vJ6j/374f3025-dd9f-4e01-90b8-b5c02450e84b.jpg",
+                                    "description": "Immerse yourself in stunning visuals and smart features with this high-definition Smart TV."
+                                },
+                                {
+                                    "productName": "Laptop",
+                                    "price": 899.99,
+                                    "photo" : "https://i.ibb.co/3sJMhRR/83255b00-a5d0-445d-a964-b144774f1f01.jpg",
+                                    "description": "Stay productive on-the-go with this powerful and versatile laptop, perfect for work and entertainment."
+                                },
+                                {
+                                    "productName": "Wireless Headphones",
+                                    "price": 149.99,
+                                    "photo" : "https://i.ibb.co/F3zt9TX/a61e772d-a445-4b1f-a862-db4a323fbfdd.jpg",
+                                    "description": "Enjoy crystal-clear audio and freedom of movement with these sleek wireless headphones."
+                                },
+                                {
+                                    "productName": "Smartphone",
+                                    "price": 699.99,
+                                    "photo" : "https://i.ibb.co/yq573R1/bf9599fd-4bab-4397-afce-47444ea635ab.jpg",
+                                    "description": "Stay connected and organized with this feature-packed smartphone, equipped with advanced technology and innovative features."
+                                },
+                                {
+                                    "productName": "Gaming Console",
+                                    "price": 399.99,
+                                    "photo" : "https://i.ibb.co/CVJj9LT/9ea8eb65-0bc3-4e20-865d-612a789238c2.jpg",
+                                    "description": "Experience immersive gaming and entertainment with this high-performance gaming console."
+                                },
+                                {
+                                    "productName": "Smart Home Speaker",
+                                    "price": 129.99,
+                                    "photo" : "https://i.ibb.co/ygLkC9Z/cd96f9c2-0463-43a6-9858-c4c69c79a6bd.jpg",
+                                    "description": "Control your smart home devices and enjoy crisp, clear sound with this smart home speaker."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Blossom Boutique",
+                            "shopNum" : "03",
+                            "photo" : "https://i.ibb.co/54b0td7/6612b781-c3da-4249-a1e7-8319fabbc2b9.jpg",
+                            "products": [
+                                {
+                                    "productName": "Roses Bouquet",
+                                    "price": 29.99,
+                                    "photo" : "https://i.ibb.co/31vTpDb/713540e6-c24e-40bb-9b18-a2917b93ff58.jpg",
+                                    "description": "Classic bouquet of fresh roses, perfect for expressing love and appreciation."
+                                },
+                                {
+                                    "productName": "Mixed Flower Arrangement",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/dWXnFyf/3f1d559c-13a4-47e0-9b12-d14821fe15fb.jpg",
+                                    "description": "Vibrant arrangement of mixed flowers, ideal for birthdays, anniversaries, and special occasions."
+                                },
+                                {
+                                    "productName": "Sunflower Bouquet",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/99zSW42/7dfc4754-a7b2-4bed-87bc-07a686f51e7a.jpg",
+                                    "description": "Cheerful bouquet of sunflowers, guaranteed to brighten anyone's day."
+                                },
+                                {
+                                    "productName": "Orchid Plant",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/QQL1kwn/329f2ddd-423c-4344-9f2d-5590fe623800.jpg",
+                                    "description": "Elegant potted orchid plant, perfect for adding a touch of sophistication to any space."
+                                },
+                                {
+                                    "productName": "Tulip Bouquet",
+                                    "price": 19.99,
+                                    "photo" : "https://i.ibb.co/1bxW2JJ/086b649b-0b4a-4e35-92bd-2906b0e8168d.jpg",
+                                    "description": "Beautiful bouquet of fresh tulips, a symbol of spring and renewal."
+                                },
+                                {
+                                    "productName": "Lily Bouquet",
+                                    "price": 34.99,
+                                    "photo" : "https://i.ibb.co/ckBy4Wg/8ae50883-6bb3-479b-b4b8-26172df506ab.jpg",
+                                    "description": "Fragrant bouquet of lilies, perfect for celebrating special milestones and achievements."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "ScentSation Perfumery",
+                            "shopNum" : "04",
+                            "photo" : "https://i.ibb.co/B4LVQP1/e935cf12-2579-46dd-882d-4895d7bb53d0.jpg",
+                            "products": [
+                                {
+                                    "productName": "Floral Eau de Parfum",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/qMfqyrg/f94284b9-2f95-4206-b124-c73be6a3fc07.jpg",
+                                    "description": "Delicate and romantic floral fragrance, perfect for everyday wear."
+                                },
+                                {
+                                    "productName": "Citrus Cologne",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/tpQfcpc/dfa7b32e-6a47-46d7-bc4e-7882bda97a4a.jpg",
+                                    "description": "Fresh and invigorating citrus cologne, ideal for a burst of energy and vitality."
+                                },
+                                {
+                                    "productName": "Woody Eau de Toilette",
+                                    "price": 59.99,
+                                    "photo" : "https://i.ibb.co/ZxYw6gC/64f124dd-02ce-4959-8874-2348d6bcea48.jpg",
+                                    "description": "Warm and sensual woody fragrance, perfect for evening occasions and special events."
+                                },
+                                {
+                                    "productName": "Fruity Perfume",
+                                    "price": 44.99,
+                                    "photo" : "https://i.ibb.co/qy0vSdQ/02ddff50-0993-40f3-876c-81cfac642205.jpg",
+                                    "description": "Sweet and fruity perfume with a playful twist, perfect for adding a touch of fun to your day."
+                                },
+                                {
+                                    "productName": "Spicy Eau de Parfum",
+                                    "price": 54.99,
+                                    "photo" : "https://i.ibb.co/d25xTRM/22ad6440-c2b3-4553-947d-d00d02691953.jpg",
+                                    "description": "Seductive and mysterious spicy fragrance, perfect for making a bold statement."
+                                },
+                                {
+                                    "productName": "Oriental Perfume",
+                                    "price": 49.99,
+                                    "photo" : "https://i.ibb.co/qR7M6x4/64b9025b-8e59-4391-a408-dc5341509449.jpg",
+                                    "description": "Exotic and alluring oriental perfume, perfect for those who love rich and complex scents."
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "num" : "02",
+                    "shops": [
+                        {
+                            "shopName": "Ceramic Creations",
+                            "shopNum" : "01",
+                            "photo" : "https://i.ibb.co/T1X22X1/f11fd479-3d5f-4dd0-a253-3289506997d1.jpg",
+                            "products": [
+                                {
+                                    "productName": "Handcrafted Mug",
+                                    "price": 19.99,
+                                    "photo" : "https://i.ibb.co/XLv92gJ/6fc483cd-23f0-4b6d-b01c-60bcfc3ab038.jpg",
+                                    "description": "Unique handcrafted ceramic mug, perfect for enjoying your favorite hot beverages."
+                                },
+                                {
+                                    "productName": "Decorative Vase",
+                                    "price": 29.99,
+                                    "photo" : "https://i.ibb.co/tLYYrC0/db428b47-5354-4f4f-a2c2-fc9f971e3863.jpg",
+                                    "description": "Elegant decorative ceramic vase, ideal for displaying flowers or enhancing your home decor."
+                                },
+                                {
+                                    "productName": "Dinnerware Set",
+                                    "price": 59.99,
+                                    "photo" : "https://i.ibb.co/7Jjd96H/d2468972-5c90-4d30-9afe-983413ff5f19.jpg",
+                                    "description": "Complete ceramic dinnerware set, perfect for serving meals with style and sophistication."
+                                },
+                                {
+                                    "productName": "Sculptural Figurine",
+                                    "price": 39.99,
+                                    "photo" : "https://i.ibb.co/RzTf2Dh/da5b4a2f-20dd-4477-b68c-cdfa6a549e2b.jpg",
+                                    "description": "Intricately crafted ceramic figurine, perfect for adding a touch of artistry to your home."
+                                },
+                                {
+                                    "productName": "Ceramic Bowl Set",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/12MS9jW/5cf30227-5801-45be-9325-7c7c8a5ca438.jpg",
+                                    "description": "Versatile set of ceramic bowls, perfect for serving snacks, soups, or salads."
+                                },
+                                {
+                                    "productName": "Kitchen Utensil Holder",
+                                    "price": 34.99,
+                                    "photo" : "https://i.ibb.co/YyhvYhC/e9d3d26b-3347-46f2-a4c6-5d39d5f07d8e.jpg",
+                                    "description": "Practical and stylish ceramic utensil holder, perfect for organizing your kitchen essentials."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Fresh Mart Grocery",
+                            "shopNum" : "02",
+                            "photo" : "https://i.ibb.co/4YC22HP/d09a04a3-c09d-42a9-951d-bdb8792f34d8.jpg",
+                            "products": [
+                                {
+                                    "productName": "Organic Apples",
+                                    "price": 2.99,
+                                    "photo" : "https://i.ibb.co/WBPp7rX/033b1648-620d-411d-a0c9-13c5f579640c.jpg",
+                                    "description": "Fresh, crisp organic apples, perfect for snacking or baking."
+                                },
+                                {
+                                    "productName": "Whole Grain Bread",
+                                    "price": 3.49,
+                                    "photo" : "https://i.ibb.co/TkyQ1zX/c703b56d-9e92-4385-8e6f-bbfd1db15e24.jpg",
+                                    "description": "Nutritious whole grain bread, great for sandwiches or toast."
+                                },
+                                {
+                                    "productName": "Farm Fresh Eggs",
+                                    "price": 2.99,
+                                    "photo" : "https://i.ibb.co/0mqVQD8/4a6bdcd2-6451-46cd-a288-3030eba0a63b.jpg",
+                                    "description": "Locally sourced farm fresh eggs, ideal for breakfast or baking."
+                                },
+                                {
+                                    "productName": "Organic Spinach",
+                                    "price": 1.99,
+                                    "photo" : "https://i.ibb.co/wLJpxKK/9f0862ee-7bf9-4630-9042-d875084cee33.jpg",
+                                    "description": "Tender and flavorful organic spinach, perfect for salads or sautéing."
+                                },
+                                {
+                                    "productName": "Grass-fed Beef",
+                                    "price": 9.99,
+                                    "photo" : "https://i.ibb.co/pWQPQJd/883c5c17-72f3-48b7-96f1-ac1704aa3c27.jpg",
+                                    "description": "Premium grass-fed beef, perfect for grilling or slow cooking."
+                                },
+                                {
+                                    "productName": "Fresh Salmon Fillet",
+                                    "price": 12.99,
+                                    "photo" : "https://i.ibb.co/gJjGJbn/3b73af7e-17bb-4724-88de-8915441a569f.jpg",
+                                    "description": "High-quality fresh salmon fillet, great for pan-searing or baking."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Sweet Treats Candy Store",
+                            "shopNum" : "03",
+                            "photo" : "https://i.ibb.co/x65Kj3q/366d48af-ad88-445f-ac25-8d2cdfe0465c.jpg",
+                            "products": [
+                                {
+                                    "productName": "Assorted Gummy Bears",
+                                    "price": 3.99,
+                                    "photo" : "https://i.ibb.co/B3wgQLf/ab0e6af4-016b-47e9-9e8c-4a71a83041cb.jpg",
+                                    "description": "Colorful and chewy assorted gummy bears, a classic favorite for all ages."
+                                },
+                                {
+                                    "productName": "Chocolate Truffles",
+                                    "price": 5.99,
+                                    "photo" : "https://i.ibb.co/w0Wk31C/f79c31bc-5e55-40a9-bf13-4fcd8938c808.jpg",
+                                    "description": "Indulgent chocolate truffles with rich, creamy centers, perfect for satisfying your sweet tooth."
+                                },
+                                {
+                                    "productName": "Sour Patch Kids",
+                                    "price": 2.49,
+                                    "photo" : "https://i.ibb.co/bK4Tzf8/99eccb5d-7f84-4896-aeb0-817a09047f52.jpg",
+                                    "description": "Tangy and sour Sour Patch Kids candies, sure to make your taste buds tingle."
+                                },
+                                {
+                                    "productName": "Jelly Beans",
+                                    "price": 4.49,
+                                    "photo" : "https://i.ibb.co/PWCQsWS/fa6e2fc3-d0fb-41e4-8c3e-517650bf8acd.jpg",
+                                    "description": "Delicious and colorful jelly beans in a variety of flavors, perfect for snacking or sharing."
+                                },
+                                {
+                                    "productName": "Licorice Twists",
+                                    "price": 3.99,
+                                    "photo" : "https://i.ibb.co/5hhN4N8/8b672172-6ba7-45c1-8d67-8919b99de1c7.jpg",
+                                    "description": "Chewy and flavorful licorice twists, a classic treat for licorice lovers."
+                                },
+                                {
+                                    "productName": "Cotton Candy",
+                                    "price": 1.99,
+                                    "photo" : "https://i.ibb.co/Wk8JmPB/1616c482-b5f6-40c7-829e-b379a7d91ad2.jpg",
+                                    "description": "Fluffy and sweet cotton candy, a nostalgic favorite for carnival-goers and candy lovers."
+                                }
+                            ]
+                        },
+                        {
+                            "shopName": "Sweet Delights Cake Shop",
+                            "shopNum" : "04",
+                            "photo" : "https://i.ibb.co/2ngNvsY/72260eb9-fcec-424c-9ce7-d9e14b9709f4.jpg",
+                            "products": [
+                                {
+                                    "productName": "Chocolate Fudge Cake",
+                                    "price": 29.99,
+                                    "photo" : "https://i.ibb.co/cxZGq0W/d8139510-bdcb-4c36-b2fa-742eac89635d.jpg",
+                                    "description": "Decadent chocolate fudge cake, perfect for indulging your chocolate cravings."
+                                },
+                                {
+                                    "productName": "Vanilla Bean Cupcakes",
+                                    "price": 19.99,
+                                    "photo" : "https://i.ibb.co/QD5mB4D/842e3f59-51f1-4343-8ce4-7441167b9c79.jpg",
+                                    "description": "Moist and fluffy vanilla bean cupcakes, topped with creamy frosting."
+                                },
+                                {
+                                    "productName": "Red Velvet Cake",
+                                    "price": 34.99,
+                                    "photo" : "https://i.ibb.co/ZMY5vDX/9103d12b-b331-4978-9374-67ffb8907839.jpg",
+                                    "description": "Classic red velvet cake with a velvety texture and rich cream cheese frosting."
+                                },
+                                {
+                                    "productName": "Carrot Cake",
+                                    "price": 24.99,
+                                    "photo" : "https://i.ibb.co/rwvkrwC/03be6b39-a4c8-44f8-9c06-05c36196cd72.jpg",
+                                    "description": "Homemade carrot cake with walnuts and cream cheese icing, a delightful treat for any occasion."
+                                },
+                                {
+                                    "productName": "Lemon Pound Cake",
+                                    "price": 22.99,
+                                    "photo" : "https://i.ibb.co/VQ7fFwS/72399770-d430-4a7d-8c97-185aacdc3a7f.jpg",
+                                    "description": "Zesty and moist lemon pound cake, bursting with citrus flavor and topped with a lemon glaze."
+                                },
+                                {
+                                    "productName": "Strawberry Shortcake",
+                                    "price": 27.99,
+                                    "photo" : "https://i.ibb.co/K2phsbm/4fae3314-4d1f-4d2e-8ddf-2e0a47f01075.jpg",
+                                    "description": "Fresh strawberry shortcake with layers of fluffy cake, whipped cream, and ripe strawberries."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
